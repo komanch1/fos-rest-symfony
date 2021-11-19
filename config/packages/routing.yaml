@@ -1,0 +1,7 @@
+# framework:
+#     router:
+#         utf8: true
+# lists:
+#     type: rest
+#     resource: App\Controller\ListController
+#     prefix: api
